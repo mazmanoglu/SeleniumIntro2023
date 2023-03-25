@@ -3,7 +3,7 @@ package day02_driverMethods;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class C02_firstTest {
+public class C02_FirstTest {
     public static void main(String[] args) {
 
         /*
