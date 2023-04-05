@@ -32,7 +32,7 @@ public class C06_WebElementMethods {
         System.out.println(amazonSearchBox.getRect().getDimension());
         System.out.println(amazonSearchBox.isDisplayed()); // gorunuyor mu? true/false
         System.out.println(amazonSearchBox.isEnabled()); //kullanilabilir mi? it could be disabled result--> true/false
-        amazonSearchBox.isSelected(); // use for checkbox and radiobuttons
+        System.out.println(amazonSearchBox.isSelected()); // use for checkbox and radiobuttons
 
 
         Thread.sleep(2000);
